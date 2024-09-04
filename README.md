@@ -25,7 +25,7 @@
 
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
-![Image alt]()
+![Image alt](https://github.com/niko0la/security-host/blob/main/1-1.png)
 
 ### Задание 2
 
@@ -34,8 +34,8 @@
 3. Зашифруйте созданный раздел с помощью LUKS.
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
-![Image alt]()
-![Image alt]()
+![Image alt](https://github.com/niko0la/security-host/blob/main/2-1.png)
+![Image alt](https://github.com/niko0la/security-host/blob/main/2-2.png)
 
 ## Дополнительные задания (со звёздочкой*)
 
